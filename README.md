@@ -1,6 +1,6 @@
 # om-tut
 
-A ClojureScript library designed to ... well, that part is up to you.
+A port of OM Tutorial from Light Table to any nrepl compliant editor/IDE.
 
 ## Usage
 
